@@ -1,0 +1,11 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+.container {
+    width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
